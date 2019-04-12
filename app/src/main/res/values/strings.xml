@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">my_map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="kml_url">http://googlemaps.github.io/kml-samples/morekml/Polygons/Polygons.Google_Campus.kml</string>
+</resources>
